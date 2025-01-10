@@ -7,5 +7,3 @@ This is mealDB api project with functionality using javascript dom. Here user ca
 - CSS
 - JavaScript
 - MealDB API
-
-`Live link:`[ https://uttamsaha.github.io/mealDB-api-clone/](https://uttamsaha.github.io/meal-db/)
